@@ -1,0 +1,12 @@
+datos
+tierra
+diam = 12756
+mass = 5.973x10 24
+
+luna
+diam = 3476
+mass = 7.3477x10 22
+
+marte
+diam = 6779
+mass = 6.39x10 23	
